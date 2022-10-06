@@ -1,5 +1,3 @@
-SYNOPISIS
-
 Project on:
 “Seller’s Application”
  
